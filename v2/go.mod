@@ -1,4 +1,4 @@
-module github.com/killianxu/gopher
+module github.com/killianxu/gopher/v2
 
 go 1.14
 
